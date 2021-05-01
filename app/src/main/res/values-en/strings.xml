@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Post</string>
+    <string name="text_Mensagem">Hello</string>
+    <string name="btn_tarde">Afternoon</string>
+    <string name="btn_manha">Morning</string>
+    <string name="btn_noite">night</string>
+</resources>
