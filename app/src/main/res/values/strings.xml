@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Mensagem</string>
+
+    <string name="btn_tarde">Tarde</string>
+    <string name="btn_manha">Manhã</string>
+    <string name="btn_noite">Noite</string>
 </resources>
